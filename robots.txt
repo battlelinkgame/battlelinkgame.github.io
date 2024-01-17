@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cocogames.github.io/tap-games/sitemap.xml
