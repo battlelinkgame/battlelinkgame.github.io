@@ -1,1 +1,1 @@
-https://battlelinkgame.github.io/haidaoshiguang/
+https://battlelinkgame.github.io/shuguangxiaozhen/
