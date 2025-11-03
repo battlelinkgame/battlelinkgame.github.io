@@ -1,1 +1,1 @@
-https://battlelinkgame.github.io/dysg/
+https://battlelinkgame.github.io/ggbgl/
