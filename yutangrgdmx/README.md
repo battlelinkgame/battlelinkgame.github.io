@@ -1,1 +1,1 @@
-https://battlelinkgame.github.io/yutang/
+https://battlelinkgame.github.io/yutangrgdmx/
